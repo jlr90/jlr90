@@ -145,12 +145,18 @@ section {
   text-decoration: underline;
 }
 
-.why-it_img {
+.section_img {
   width: 100%;
 }
 
-.the-dream_img {
-  width: 100%;
+.image_caption {
+  font-size: 80%;
+  text-align: center
+}
+
+.reference {
+  font-size: 80%;
+  color: #555;
 }
 
 footer {
@@ -362,6 +368,15 @@ transition: all .3s ease-out;
   background-size: cover;
   color: #fff;
   text-shadow: 1px 1px 1px #000;
+}
+
+.card-link {
+  color: #00497a;
+}
+
+.card-link:hover {
+  color: #00568f;
+  text-decoration: underline;
 }
 
 /* UTILITIES */

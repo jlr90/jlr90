@@ -4,7 +4,8 @@ html {
 }
 
 body {
-  background-color: #0077c8;
+  background-color: #00a8e0;
+  /* background-color: #1aafd0; */
   color: #fff;
   font-family: 'Montserrat', sans-serif;
   position: relative;
@@ -20,7 +21,7 @@ p {
 }
 
 .navbar {
-  background-color: #C80077;
+  background-color: #ffb310;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
 }
 
@@ -139,7 +140,7 @@ section {
 }
 
 footer {
-  background-color: #C80077;
+  background-color: #ffb310;
   width: 100%;
   text-align: center;
 }
@@ -210,7 +211,7 @@ footer {
 }
 
 .flip-card-back {
-  background-color: #C80077;
+  background-color: #ffb310;
   color: white;
   transform: rotateY(180deg);
   display: flex;

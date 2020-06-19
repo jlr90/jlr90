@@ -48,11 +48,11 @@ p {
   }
 }
 
-.navbar-nav li a {
-  color: #eaf3fb !important;
+.navbar-dark .navbar-nav .nav-link {
+  color: #e0f0fd;
 }
 
-.navbar-nav li a:hover {
+.navbar-dark .navbar-nav .nav-link:hover {
   color: #fff;
   text-decoration: underline;
 }
@@ -151,6 +151,7 @@ section {
 
 footer {
   background-color: #ffb310;
+  color: #e0f0fd;
   width: 100%;
   text-align: center;
   padding: 30px 20px;
@@ -166,12 +167,12 @@ footer {
 }
 
 .footer-link {
-  color: #fff;
+  color: #e0f0fd;
   text-decoration: underline;
 }
 
 .footer-link:hover {
-  color: #eee;
+  color: #fff;
   text-decoration: underline;
 }
 
